@@ -1,0 +1,15 @@
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/bin/Debug/net8.0/Sorta-and-Tag-Orders
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/bin/Debug/net8.0/Sorta-and-Tag-Orders.deps.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/bin/Debug/net8.0/Sorta-and-Tag-Orders.runtimeconfig.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/bin/Debug/net8.0/Sorta-and-Tag-Orders.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/bin/Debug/net8.0/Sorta-and-Tag-Orders.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.AssemblyInfoInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.AssemblyInfo.cs
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.csproj.CoreCompileInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.sourcelink.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/refint/Sorta-and-Tag-Orders.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/Sorta-and-Tag-Orders.genruntimeconfig.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Sorta-and-Tag-Orders/obj/Debug/net8.0/ref/Sorta-and-Tag-Orders.dll

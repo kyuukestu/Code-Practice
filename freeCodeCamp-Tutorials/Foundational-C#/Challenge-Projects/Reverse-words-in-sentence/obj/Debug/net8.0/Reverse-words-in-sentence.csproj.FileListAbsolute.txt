@@ -1,0 +1,15 @@
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/bin/Debug/net8.0/Reverse-words-in-sentence
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/bin/Debug/net8.0/Reverse-words-in-sentence.deps.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/bin/Debug/net8.0/Reverse-words-in-sentence.runtimeconfig.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/bin/Debug/net8.0/Reverse-words-in-sentence.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/bin/Debug/net8.0/Reverse-words-in-sentence.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.AssemblyInfoInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.AssemblyInfo.cs
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.csproj.CoreCompileInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.sourcelink.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/refint/Reverse-words-in-sentence.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/Reverse-words-in-sentence.genruntimeconfig.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Challenge-Projects/Reverse-words-in-sentence/obj/Debug/net8.0/ref/Reverse-words-in-sentence.dll
