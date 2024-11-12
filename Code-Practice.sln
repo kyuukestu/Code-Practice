@@ -1,0 +1,123 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "freeCodeCamp-Tutorials", "freeCodeCamp-Tutorials", "{AF791F33-5407-4266-9B26-47330E3B54E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundational-C#", "Foundational-C#", "{DFD34F6D-6313-4913-9EC3-2F7307AE7618}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-Projects", "Challenge-Projects", "{2F4246A7-72CE-4F4E-871D-83837CE74496}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorta-and-Tag-Orders", "freeCodeCamp-Tutorials\Foundational-C#\Challenge-Projects\Sorta-and-Tag-Orders\Sorta-and-Tag-Orders.csproj", "{C1CE56ED-04E3-41A2-84E1-874900EB8EEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse-words-in-sentence", "freeCodeCamp-Tutorials\Foundational-C#\Challenge-Projects\Reverse-words-in-sentence\Reverse-words-in-sentence.csproj", "{B5D36121-BE99-4378-9EBB-432E562CAAD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{55EFA94C-2108-43EE-B1D6-34F5A4A0FBD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-arrays-operations", "freeCodeCamp-Tutorials\Foundational-C#\Modules\csharp-arrays-operations\csharp-arrays-operations.csproj", "{D4A11AA2-D274-40AB-B4B3-60DB5F0769FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "freeCodeCamp-Tutorials\Foundational-C#\Modules\Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#\TestProject.csproj", "{4E40EB9D-C449-440B-A064-077C3238FFC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-Projects", "Guided-Projects", "{2E4C1C28-C6FD-4D26-B393-658503F60056}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-project-foreach-if-array-CSharp-main", "Guided-project-foreach-if-array-CSharp-main", "{7467B596-4A21-4F4C-AFB3-3BEB22CEBB47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{44BBFE83-9369-4AC1-AC84-AE7DFD01BF57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "freeCodeCamp-Tutorials\Foundational-C#\Guided-Projects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\Starter.csproj", "{AA80796F-1CA1-4F45-9822-04951C103275}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "freeCodeCamp-Tutorials\Foundational-C#\Guided-Projects\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Final\Final.csproj", "{9AC6206D-51F4-49A3-A805-CED34650D3BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-project-branching-looping-CSharp-main", "Guided-project-branching-looping-CSharp-main", "{CB677D4E-06C5-4F0C-B1FB-5178623BC798}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{83187BE4-7865-4968-82E4-D593E8E0AE2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "freeCodeCamp-Tutorials\Foundational-C#\Guided-Projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\Starter.csproj", "{84A0C120-36D1-43FB-AAB0-9F6F4DE2D593}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "freeCodeCamp-Tutorials\Foundational-C#\Guided-Projects\Guided-project-branching-looping-CSharp-main\GuidedProject\Final\Final.csproj", "{CF6E2089-16BC-4F15-82B3-1D2FF0B0CEAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-foreach-if-array-CSharp-main", "Challenge-project-foreach-if-array-CSharp-main", "{AE30C965-05B1-4212-9DA6-6EF224819100}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChallengeProject", "ChallengeProject", "{4C717A4C-56CE-4ABC-8563-E8E6A4EA821E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "freeCodeCamp-Tutorials\Foundational-C#\Challenge-Projects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{27964847-DBE9-4BF6-8612-3F3028DE770E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "freeCodeCamp-Tutorials\Foundational-C#\Challenge-Projects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Final\Final.csproj", "{8B4185DC-C505-461C-8A7E-4E62B55DC2F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1CE56ED-04E3-41A2-84E1-874900EB8EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CE56ED-04E3-41A2-84E1-874900EB8EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CE56ED-04E3-41A2-84E1-874900EB8EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CE56ED-04E3-41A2-84E1-874900EB8EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D36121-BE99-4378-9EBB-432E562CAAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D36121-BE99-4378-9EBB-432E562CAAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D36121-BE99-4378-9EBB-432E562CAAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D36121-BE99-4378-9EBB-432E562CAAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A11AA2-D274-40AB-B4B3-60DB5F0769FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A11AA2-D274-40AB-B4B3-60DB5F0769FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A11AA2-D274-40AB-B4B3-60DB5F0769FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A11AA2-D274-40AB-B4B3-60DB5F0769FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E40EB9D-C449-440B-A064-077C3238FFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E40EB9D-C449-440B-A064-077C3238FFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E40EB9D-C449-440B-A064-077C3238FFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E40EB9D-C449-440B-A064-077C3238FFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA80796F-1CA1-4F45-9822-04951C103275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA80796F-1CA1-4F45-9822-04951C103275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA80796F-1CA1-4F45-9822-04951C103275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA80796F-1CA1-4F45-9822-04951C103275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC6206D-51F4-49A3-A805-CED34650D3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC6206D-51F4-49A3-A805-CED34650D3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC6206D-51F4-49A3-A805-CED34650D3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC6206D-51F4-49A3-A805-CED34650D3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A0C120-36D1-43FB-AAB0-9F6F4DE2D593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A0C120-36D1-43FB-AAB0-9F6F4DE2D593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A0C120-36D1-43FB-AAB0-9F6F4DE2D593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A0C120-36D1-43FB-AAB0-9F6F4DE2D593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6E2089-16BC-4F15-82B3-1D2FF0B0CEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6E2089-16BC-4F15-82B3-1D2FF0B0CEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6E2089-16BC-4F15-82B3-1D2FF0B0CEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6E2089-16BC-4F15-82B3-1D2FF0B0CEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27964847-DBE9-4BF6-8612-3F3028DE770E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27964847-DBE9-4BF6-8612-3F3028DE770E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27964847-DBE9-4BF6-8612-3F3028DE770E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27964847-DBE9-4BF6-8612-3F3028DE770E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4185DC-C505-461C-8A7E-4E62B55DC2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4185DC-C505-461C-8A7E-4E62B55DC2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4185DC-C505-461C-8A7E-4E62B55DC2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4185DC-C505-461C-8A7E-4E62B55DC2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DFD34F6D-6313-4913-9EC3-2F7307AE7618} = {AF791F33-5407-4266-9B26-47330E3B54E2}
+		{2F4246A7-72CE-4F4E-871D-83837CE74496} = {DFD34F6D-6313-4913-9EC3-2F7307AE7618}
+		{C1CE56ED-04E3-41A2-84E1-874900EB8EEA} = {2F4246A7-72CE-4F4E-871D-83837CE74496}
+		{B5D36121-BE99-4378-9EBB-432E562CAAD8} = {2F4246A7-72CE-4F4E-871D-83837CE74496}
+		{55EFA94C-2108-43EE-B1D6-34F5A4A0FBD6} = {DFD34F6D-6313-4913-9EC3-2F7307AE7618}
+		{D4A11AA2-D274-40AB-B4B3-60DB5F0769FE} = {55EFA94C-2108-43EE-B1D6-34F5A4A0FBD6}
+		{4E40EB9D-C449-440B-A064-077C3238FFC6} = {55EFA94C-2108-43EE-B1D6-34F5A4A0FBD6}
+		{2E4C1C28-C6FD-4D26-B393-658503F60056} = {DFD34F6D-6313-4913-9EC3-2F7307AE7618}
+		{7467B596-4A21-4F4C-AFB3-3BEB22CEBB47} = {2E4C1C28-C6FD-4D26-B393-658503F60056}
+		{44BBFE83-9369-4AC1-AC84-AE7DFD01BF57} = {7467B596-4A21-4F4C-AFB3-3BEB22CEBB47}
+		{AA80796F-1CA1-4F45-9822-04951C103275} = {44BBFE83-9369-4AC1-AC84-AE7DFD01BF57}
+		{9AC6206D-51F4-49A3-A805-CED34650D3BE} = {44BBFE83-9369-4AC1-AC84-AE7DFD01BF57}
+		{CB677D4E-06C5-4F0C-B1FB-5178623BC798} = {2E4C1C28-C6FD-4D26-B393-658503F60056}
+		{83187BE4-7865-4968-82E4-D593E8E0AE2B} = {CB677D4E-06C5-4F0C-B1FB-5178623BC798}
+		{84A0C120-36D1-43FB-AAB0-9F6F4DE2D593} = {83187BE4-7865-4968-82E4-D593E8E0AE2B}
+		{CF6E2089-16BC-4F15-82B3-1D2FF0B0CEAC} = {83187BE4-7865-4968-82E4-D593E8E0AE2B}
+		{AE30C965-05B1-4212-9DA6-6EF224819100} = {2F4246A7-72CE-4F4E-871D-83837CE74496}
+		{4C717A4C-56CE-4ABC-8563-E8E6A4EA821E} = {AE30C965-05B1-4212-9DA6-6EF224819100}
+		{27964847-DBE9-4BF6-8612-3F3028DE770E} = {4C717A4C-56CE-4ABC-8563-E8E6A4EA821E}
+		{8B4185DC-C505-461C-8A7E-4E62B55DC2F9} = {4C717A4C-56CE-4ABC-8563-E8E6A4EA821E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D08BC804-2D91-49B1-A5B1-EA062A02AE5A}
+	EndGlobalSection
+EndGlobal

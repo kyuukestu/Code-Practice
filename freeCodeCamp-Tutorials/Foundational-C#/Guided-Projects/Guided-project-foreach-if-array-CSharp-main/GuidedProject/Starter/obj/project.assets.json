@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cloudyskyloftymoon/Library/CloudStorage/GoogleDrive-kyuukestu@gmail.com/My Drive/Programming/Code Practice/CasharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectUniqueName": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "/Users/cloudyskyloftymoon/Library/CloudStorage/GoogleDrive-kyuukestu@gmail.com/My Drive/Programming/Code Practice/CasharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectPath": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "packagesPath": "/Users/cloudyskyloftymoon/.nuget/packages/",
-      "outputPath": "/Users/cloudyskyloftymoon/Library/CloudStorage/GoogleDrive-kyuukestu@gmail.com/My Drive/Programming/Code Practice/CasharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
+      "outputPath": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cloudyskyloftymoon/.nuget/NuGet/NuGet.Config"
@@ -42,8 +42,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -59,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

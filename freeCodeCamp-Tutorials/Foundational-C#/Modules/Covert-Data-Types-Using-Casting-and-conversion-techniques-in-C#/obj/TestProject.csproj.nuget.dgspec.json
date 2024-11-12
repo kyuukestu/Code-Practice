@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cloudyskyloftymoon/Desktop/Code-Practice/CasharpProjects/TestProject/TestProject.csproj": {}
+    "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/TestProject.csproj": {}
   },
   "projects": {
-    "/Users/cloudyskyloftymoon/Desktop/Code-Practice/CasharpProjects/TestProject/TestProject.csproj": {
+    "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/CasharpProjects/TestProject/TestProject.csproj",
+        "projectUniqueName": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/CasharpProjects/TestProject/TestProject.csproj",
+        "projectPath": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/TestProject.csproj",
         "packagesPath": "/Users/cloudyskyloftymoon/.nuget/packages/",
-        "outputPath": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/CasharpProjects/TestProject/obj/",
+        "outputPath": "/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cloudyskyloftymoon/.nuget/NuGet/NuGet.Config"
@@ -36,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
