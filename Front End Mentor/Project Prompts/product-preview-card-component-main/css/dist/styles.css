@@ -1,0 +1,78 @@
+body {
+  background-color: #f2ebe3;
+}
+.card {
+  height: 450px;
+  border: solid 1px #000;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 10% 20% 10% 20%;
+  display: flex;
+}
+.product-image {
+  background-image: url("../../images/image-product-desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  width: 50%;
+}
+.product-description {
+  background-color: #fff;
+  height: 90%;
+  width: 50%;
+  font-family: 'Montserrat';
+  padding: 15px 15px 15px 15px;
+}
+.product-description .product-type {
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  opacity: 0.5;
+  margin-left: 10%;
+}
+.product-description .product-name {
+  font-family: 'Fraunces';
+  font-weight: 700;
+  font-size: 44px;
+  margin: 0% 10% 10% 10%;
+}
+.product-description .flavor-text {
+  font-size: 18px;
+  opacity: 0.5;
+  justify-content: left;
+  margin: 0% 10% 10% 10%;
+  line-height: 20px;
+}
+.product-description .product-price {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px 5px 5px 5px;
+  font-family: 'Fraunces';
+}
+.product-description .product-price .discount-price {
+  text-decoration: none;
+  color: #008000;
+  font-size: 30px;
+}
+.product-description .product-price .original-price {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+.cart-button {
+  background-color: #008000;
+  border: transparent 1px;
+  border-radius: 5px;
+  margin: 5% 20% 5% 20%;
+  height: 40px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fa-cart-shopping {
+  color: #fff;
+  height: 40px;
+  width: 40px;
+  padding-top: 25px;
+}
