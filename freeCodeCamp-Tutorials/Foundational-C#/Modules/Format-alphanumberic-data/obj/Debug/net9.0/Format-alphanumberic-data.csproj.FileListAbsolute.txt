@@ -1,0 +1,15 @@
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/bin/Debug/net9.0/Format-alphanumberic-data
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/bin/Debug/net9.0/Format-alphanumberic-data.deps.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/bin/Debug/net9.0/Format-alphanumberic-data.runtimeconfig.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/bin/Debug/net9.0/Format-alphanumberic-data.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/bin/Debug/net9.0/Format-alphanumberic-data.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.AssemblyInfoInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.AssemblyInfo.cs
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.csproj.CoreCompileInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.sourcelink.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/refint/Format-alphanumberic-data.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/Format-alphanumberic-data.genruntimeconfig.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Format-alphanumberic-data/obj/Debug/net9.0/ref/Format-alphanumberic-data.dll
