@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "extract-replace-remove-data-from-an-input-string/1.0.0": {
+        "runtime": {
+          "extract-replace-remove-data-from-an-input-string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "extract-replace-remove-data-from-an-input-string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

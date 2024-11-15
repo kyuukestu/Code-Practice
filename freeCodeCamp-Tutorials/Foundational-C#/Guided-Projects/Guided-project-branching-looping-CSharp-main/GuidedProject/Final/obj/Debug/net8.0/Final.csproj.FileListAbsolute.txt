@@ -1,0 +1,15 @@
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Guided-Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll

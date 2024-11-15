@@ -1,0 +1,15 @@
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/bin/Debug/net9.0/string-indexof-substring-methods
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/bin/Debug/net9.0/string-indexof-substring-methods.deps.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/bin/Debug/net9.0/string-indexof-substring-methods.runtimeconfig.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/bin/Debug/net9.0/string-indexof-substring-methods.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/bin/Debug/net9.0/string-indexof-substring-methods.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.AssemblyInfoInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.AssemblyInfo.cs
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.csproj.CoreCompileInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.sourcelink.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/refint/string-indexof-substring-methods.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/string-indexof-substring-methods.genruntimeconfig.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Exercises/string-indexof-substring-methods/obj/Debug/net9.0/ref/string-indexof-substring-methods.dll

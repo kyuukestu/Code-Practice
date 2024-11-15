@@ -12,3 +12,18 @@
 /Users/cloudyskyloftymoon/Library/CloudStorage/GoogleDrive-kyuukestu@gmail.com/My Drive/Programming/Code Practice/CasharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
 /Users/cloudyskyloftymoon/Library/CloudStorage/GoogleDrive-kyuukestu@gmail.com/My Drive/Programming/Code Practice/CasharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
 /Users/cloudyskyloftymoon/Library/CloudStorage/GoogleDrive-kyuukestu@gmail.com/My Drive/Programming/Code Practice/CasharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/bin/Debug/net8.0/TestProject
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/bin/Debug/net8.0/TestProject.deps.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/bin/Debug/net8.0/TestProject.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/bin/Debug/net8.0/TestProject.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/refint/TestProject.dll
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.pdb
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/cloudyskyloftymoon/Desktop/Code-Practice/freeCodeCamp-Tutorials/Foundational-C#/Modules/Covert-Data-Types-Using-Casting-and-conversion-techniques-in-C#/obj/Debug/net8.0/ref/TestProject.dll
