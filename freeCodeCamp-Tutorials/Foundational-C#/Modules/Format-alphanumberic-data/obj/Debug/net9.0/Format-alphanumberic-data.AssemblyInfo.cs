@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Format-alphanumberic-data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9625fe8db7bf9acec851d0ceb1c7c92ad37579e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c686aa93a06bf8f77b1671c97c672c87ba914c86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Format-alphanumberic-data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Format-alphanumberic-data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
