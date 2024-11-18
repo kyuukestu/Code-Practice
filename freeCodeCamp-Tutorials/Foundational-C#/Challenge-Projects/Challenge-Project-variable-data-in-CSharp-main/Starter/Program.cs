@@ -133,23 +133,23 @@ do
         case "2":
             // #1 Display all dogs with a multiple search characteristics
 
-            string dogCharacteristic = "";
+            string[] dogCharacteristic = [];
 
-            while (dogCharacteristic == "")
+            while (dogCharacteristic.Length == 0)
             {
                 // #2 have user enter multiple comma separated characteristics to search for
-                Console.WriteLine($"\r\nEnter one desired dog characteristic to search for");
+                Console.WriteLine($"\r\nEnter one or more desired dog characteristic to search for (Characteristics must be separated by a comma ',')");
                 readResult = Console.ReadLine();
                 if (readResult != null)
                 {
-                    // dogCharacteristic = readResult.ToLower().Trim();
-                    // Console.WriteLine();
+                    Console.WriteLine();
 
-                    string[] resultArray = readResult.Split(",");
+                    dogCharacteristic = readResult.Split(",");
 
-                    for (int i = 0; i < resultArray.Length; i++)
+
+                    for (int i = 0; i < dogCharacteristic.Length; i++)
                     {
-                        resultArray[i] = resultArray[i].Trim();
+                        dogCharacteristic[i] = dogCharacteristic[i].ToLower().Trim();
                     }
 
                 }
@@ -157,46 +157,62 @@ do
 
             bool noMatchesDog = true;
             string dogDescription = "";
+            bool[] dogMatches = [];
+
+            // Resize dogMatches to match list of characteristics provided.
+            Array.Resize(ref dogMatches, dogCharacteristic.Length);
 
             // #4 update to "rotating" animation with countdown
             string[] searchingIcons = { ".  ", ".. ", "..." };
 
-            // loop ourAnimals array to search for matching animals
-            for (int i = 0; i < maxPets; i++)
+            for (int k = 0; k < dogCharacteristic.Length; k++)
             {
 
-                if (ourAnimals[i, 1].Contains("dog"))
+                // loop ourAnimals array to search for matching animals
+                for (int i = 0; i < maxPets; i++)
                 {
 
-                    // Search combined descriptions and report results
-                    dogDescription = ourAnimals[i, 4] + "\r\n" + ourAnimals[i, 5];
-
-                    for (int j = 5; j > -1; j--)
+                    if (ourAnimals[i, 1].Contains("dog"))
                     {
+
+                        // Search combined descriptions and report results
+                        dogDescription = ourAnimals[i, 4] + "\r\n" + ourAnimals[i, 5];
+
                         // #5 update "searching" message to show countdown 
                         foreach (string icon in searchingIcons)
                         {
-                            Console.Write($"\r Searching our dog {ourAnimals[i, 3]} for {dogCharacteristic} {icon}");
+                            Console.Write($"\r Searching our dog {ourAnimals[i, 3]} for {dogCharacteristic[k]} {icon}");
                             Thread.Sleep(250);
                         }
 
                         Console.Write($"\r{new String(' ', Console.BufferWidth)}");
+
+                        // #3a iterate submitted characteristic terms and search description for each term
+                        if (dogDescription.Contains(dogCharacteristic[k]))
+                        {
+                            // #3b update message to reflect term 
+                            Console.WriteLine($"\nSearching for {dogCharacteristic[k]}.");
+
+                            // #3c set a flag "this dog" is a match
+                            dogMatches[k] = true;
+
+                            noMatchesDog = false;
+
+                            // #3d if "this dog" is match write match message + dog description
+                            Console.WriteLine($"{ourAnimals[i, 3]} was a match for {dogCharacteristic[k]}!");
+                        }
+                        else
+                        {
+                            dogMatches[k] = false;
+
+                            Console.WriteLine("None of our dogs are a match found for: " + dogCharacteristic[k]);
+                        }
+
                     }
-
-                    // #3a iterate submitted characteristic terms and search description for each term
-
-                    if (dogDescription.Contains(dogCharacteristic))
-                    {
-                        // #3b update message to reflect term 
-                        // #3c set a flag "this dog" is a match
-                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
-
-                        noMatchesDog = false;
-                    }
-
-                    // #3d if "this dog" is match write match message + dog description
                 }
+
             }
+
 
             if (noMatchesDog)
             {
