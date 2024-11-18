@@ -104,6 +104,9 @@ StyleCopReport.xml
 *.svclog
 *.scc
 *.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.dll
+*.pdb
 
 # Chutzpah Test files
 _Chutzpah*
