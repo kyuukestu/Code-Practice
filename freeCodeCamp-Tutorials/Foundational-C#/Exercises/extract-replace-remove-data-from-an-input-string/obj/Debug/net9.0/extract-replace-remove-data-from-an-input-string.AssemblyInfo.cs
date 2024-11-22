@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("extract-replace-remove-data-from-an-input-string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0df9b03d04e8847a31b995a12423e62fe230129e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45b3873f2726ad820ae9eb97492244b456db10ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("extract-replace-remove-data-from-an-input-string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("extract-replace-remove-data-from-an-input-string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
