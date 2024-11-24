@@ -104,6 +104,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return-arrays-from-methods"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice-mini-game-challenge", "freeCodeCamp-Tutorials\Foundational-C#\Exercises\Dice-mini-game-challenge\Dice-mini-game-challenge.csproj", "{9A481EB7-5D67-4FE7-B985-ECB4DAFED229}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guided-project-visit-petting-zoo", "freeCodeCamp-Tutorials\Foundational-C#\Guided-Projects\Guided-project-visit-petting-zoo\Guided-project-visit-petting-zoo.csproj", "{189ACEA2-6A64-4DE4-90B3-89C7BDB77E62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -250,6 +252,10 @@ Global
 		{9A481EB7-5D67-4FE7-B985-ECB4DAFED229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A481EB7-5D67-4FE7-B985-ECB4DAFED229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A481EB7-5D67-4FE7-B985-ECB4DAFED229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189ACEA2-6A64-4DE4-90B3-89C7BDB77E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189ACEA2-6A64-4DE4-90B3-89C7BDB77E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189ACEA2-6A64-4DE4-90B3-89C7BDB77E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189ACEA2-6A64-4DE4-90B3-89C7BDB77E62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -303,6 +309,7 @@ Global
 		{5969B286-BA64-4EB9-BC43-AC87D7323CB1} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
 		{4C60851A-4D26-416C-8985-9A77FB92F20D} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
 		{9A481EB7-5D67-4FE7-B985-ECB4DAFED229} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
+		{189ACEA2-6A64-4DE4-90B3-89C7BDB77E62} = {DDB64AB0-14D9-4A78-B21B-9404FF8F76AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B1DE6C4-573D-45A0-A393-57FC621A8A07}
