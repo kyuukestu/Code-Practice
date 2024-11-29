@@ -41,7 +41,7 @@ bool ShouldPlay()
         readResult = readResult.ToLower();
     }
 
-    return readResult == "y" ? true : false;
+    return readResult == "y";
 }
 
 string WinOrLose(int roll, int target)

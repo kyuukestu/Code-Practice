@@ -36,7 +36,7 @@ void RSVP(string name, int partySize = 1, string allergies = "none", bool invite
 
 void ShowRSVPs()
 {
-    Console.Writeline(\nTotal RSVPs:);
+    Console.WriteLine("\nTotal RSVPs:");
     for (int i = 0; i < count; i++)
     {
         Console.WriteLine(rsvps[i]);

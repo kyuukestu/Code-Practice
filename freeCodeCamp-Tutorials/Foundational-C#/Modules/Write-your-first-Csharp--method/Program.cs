@@ -1,4 +1,4 @@
-﻿void DisplayRandomNumbers();
+﻿void DisplayRandomNumbers()
 {
     Random random = new Random();
 

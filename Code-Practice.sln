@@ -108,6 +108,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guided-project-visit-pettin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "createmethodsStarter", "freeCodeCamp-Tutorials\Foundational-C#\Challenge-Projects\Challenge-project-Create-methods-in-CSharp-main\Starter\createmethodsStarter.csproj", "{C68B115F-2A98-4DF4-948B-E33D156361B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise-run-code-debug-environment", "freeCodeCamp-Tutorials\Foundational-C#\Exercises\Exercise-run-code-debug-environment\Exercise-run-code-debug-environment.csproj", "{451A1079-DB03-44BA-8C1C-973D47B1CC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge-Debugger", "freeCodeCamp-Tutorials\Foundational-C#\Challenge-Projects\Challenge-Debugger\Challenge-Debugger.csproj", "{0CA242F0-6F22-449D-99C1-B54484FF5B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement-try-catch-exception-handling", "freeCodeCamp-Tutorials\Foundational-C#\Exercises\Implement-try-catch-exception-handling\Implement-try-catch-exception-handling.csproj", "{992EDD7F-6EEA-40CD-B65C-BDE01A9C4B32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -262,6 +268,18 @@ Global
 		{C68B115F-2A98-4DF4-948B-E33D156361B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C68B115F-2A98-4DF4-948B-E33D156361B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C68B115F-2A98-4DF4-948B-E33D156361B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451A1079-DB03-44BA-8C1C-973D47B1CC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451A1079-DB03-44BA-8C1C-973D47B1CC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451A1079-DB03-44BA-8C1C-973D47B1CC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451A1079-DB03-44BA-8C1C-973D47B1CC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA242F0-6F22-449D-99C1-B54484FF5B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA242F0-6F22-449D-99C1-B54484FF5B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA242F0-6F22-449D-99C1-B54484FF5B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA242F0-6F22-449D-99C1-B54484FF5B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992EDD7F-6EEA-40CD-B65C-BDE01A9C4B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992EDD7F-6EEA-40CD-B65C-BDE01A9C4B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992EDD7F-6EEA-40CD-B65C-BDE01A9C4B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992EDD7F-6EEA-40CD-B65C-BDE01A9C4B32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -317,6 +335,9 @@ Global
 		{9A481EB7-5D67-4FE7-B985-ECB4DAFED229} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
 		{189ACEA2-6A64-4DE4-90B3-89C7BDB77E62} = {DDB64AB0-14D9-4A78-B21B-9404FF8F76AA}
 		{C68B115F-2A98-4DF4-948B-E33D156361B5} = {8AD1C20E-8704-4C09-89F0-47543EBD3CD2}
+		{451A1079-DB03-44BA-8C1C-973D47B1CC70} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
+		{0CA242F0-6F22-449D-99C1-B54484FF5B7C} = {8AD1C20E-8704-4C09-89F0-47543EBD3CD2}
+		{992EDD7F-6EEA-40CD-B65C-BDE01A9C4B32} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B1DE6C4-573D-45A0-A393-57FC621A8A07}

@@ -425,7 +425,7 @@ do
                 }
             }
 
-            Console.WriteLine("Nickname and personality description fields are complete for all of our friends.\1nPress the Enter key to continue");
+            Console.WriteLine("Nickname and personality description fields are complete for all of our friends.\nPress the Enter key to continue");
             readResult = Console.ReadLine();
 
             break;

@@ -8,10 +8,10 @@ Console.WriteLine($"Global Statement: {a} x {b} = {c}");
 void Multiply(int x, int y, int z)
 {
     c = a * b;
-    Console.WriteLine($"Inside Multiply method: {a} x {b} = {c}")
+    Console.WriteLine($"Inside Multiply method: {a} x {b} = {c}");
 }
 
-int[] array {1, 2, 3, 4, 5};
+int[] array = { 1, 2, 3, 4, 5 };
 
 PrintArray(array);
 Clear(array);
@@ -41,7 +41,7 @@ Console.WriteLine($"Start: {status}");
 SetHealth(false);
 Console.WriteLine($"End: {status}");
 
-void SetHealth(string status, bool isHealthy)
+void SetHealth(bool isHealthy, string status = "Healthy")
 {
     status = (isHealthy ? "Healthy" : "UNhealthy");
     Console.WriteLine($"Middle: {status}");
