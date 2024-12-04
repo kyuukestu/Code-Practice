@@ -2,7 +2,7 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "buildChallenge-Debugger",
+			"label": "buildGuided-project-debugging-CSharp-main",
 			"command": "dotnet",
 			"type": "process",
 			"args": [
@@ -34,6 +34,18 @@
 				"run",
 				"--project",
 				"${workspaceFolder}/Code-Practice.sln"
+			],
+			"problemMatcher": "$msCompile"
+		},
+		{
+			"label": "build",
+			"command": "dotnet",
+			"type": "process",
+			"args": [
+				"build",
+				"${workspaceFolder}/Code-Practice.sln",
+				"/property:GenerateFullPaths=true",
+				"/consoleloggerparameters:NoSummary;ForceNoAlign"
 			],
 			"problemMatcher": "$msCompile"
 		}
