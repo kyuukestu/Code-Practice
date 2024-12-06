@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("string-indexof-lastindexof-method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9080753ec99bda6da942371a3d6cb9f19ba389aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5942936db76fa5b870863260cf5ea3f46c124d4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("string-indexof-lastindexof-method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("string-indexof-lastindexof-method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

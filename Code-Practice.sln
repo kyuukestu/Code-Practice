@@ -120,6 +120,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge-for-creating-and-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "debuggingStarter", "freeCodeCamp-Tutorials\Foundational-C#\Guided-Projects\Guided-project-debugging-CSharp-main\GuidedProject\Starter\debuggingStarter.csproj", "{C303A668-4057-4D9F-A063-A49D955D2D29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "debuggingChStarter", "freeCodeCamp-Tutorials\Foundational-C#\Challenge-Projects\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\debuggingChStarter.csproj", "{1A56FAA7-D80F-4B64-BABB-33CDC28E8220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -298,6 +300,10 @@ Global
 		{C303A668-4057-4D9F-A063-A49D955D2D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C303A668-4057-4D9F-A063-A49D955D2D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C303A668-4057-4D9F-A063-A49D955D2D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A56FAA7-D80F-4B64-BABB-33CDC28E8220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A56FAA7-D80F-4B64-BABB-33CDC28E8220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A56FAA7-D80F-4B64-BABB-33CDC28E8220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A56FAA7-D80F-4B64-BABB-33CDC28E8220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -359,6 +365,7 @@ Global
 		{7AE893DA-118B-47D4-8376-F84DE29FE72A} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
 		{D83B2D8F-837D-441D-A2A7-8859DE2FF672} = {4B79782A-6D0F-4F79-B0C7-E1CD626541E3}
 		{C303A668-4057-4D9F-A063-A49D955D2D29} = {DDB64AB0-14D9-4A78-B21B-9404FF8F76AA}
+		{1A56FAA7-D80F-4B64-BABB-33CDC28E8220} = {8AD1C20E-8704-4C09-89F0-47543EBD3CD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B1DE6C4-573D-45A0-A393-57FC621A8A07}
